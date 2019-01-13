@@ -1,5 +1,6 @@
 # SPI DRIVER
-
+This reposiroty has been shifted from https://github.com/yash1595/Projects to this link
+# Descriptions
 Device used:MSP432P401R  
 This library is an attempt to write a custom SPI driver for MSP432.  
 It has one dependency on the simplelink library containing the cs.h/cs.c files.  
